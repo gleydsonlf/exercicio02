@@ -1,0 +1,53 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+#hero p {
+  width: 592px;
+  margin: 30px auto;
+  color: #3f3d56;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: 400;
+  width: 562px;
+  margin: 60px auto 32px;
+  color: #3f3d56;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+span,
+a {
+  color: #ee24ff;
+}
+
+#footer {
+  padding: 8px 8px 40px 8px;
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+#footer a {
+  color: #3f3d56;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  color: #6059a8;
+}
+
+#wave {
+  width: 100%;
+}
